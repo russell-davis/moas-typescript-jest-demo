@@ -1,0 +1,1 @@
+moas-typescript-jest-demo
